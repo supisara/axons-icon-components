@@ -1,8 +1,5 @@
 {
   "name": "@supisara/axons-icon-components",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/supisara"
-  },
   "version": "0.0.2",
   "description": "axons icon component library",
   "scripts": {
